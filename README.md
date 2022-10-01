@@ -1,29 +1,44 @@
 
-# Welcome to Codewell! 👋
+#  Chirp Landing Page
 
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
+## Table of contents
 
-Free or paid, all templates are high quality and will make great portfolio pieces.
-
-### I've completed the challenge, now what?
-
-We recommend using one of these two websites to deploy your projects
-
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 
-### Submit your solution to Codewell
+## Overview
+This is an Chirp landing page.
 
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
+### Screenshot
 
-### Join our community on Slack
+![](./Assets/Annotation%202022-10-01%20180008.png)
 
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
+### Links
 
-### Fonts Used
+- Live Site URL:(https://peterforyou.github.io/chirp-landing-page/)
 
-https://fonts.google.com/specimen/Inter
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- BootStrap
+
+### Continued development    
+
+I would love to focus more on Math() method and loops.
+
+## Author
+
+- Name - [Peter Bit](https://www.twitter.com/Peterbyte2)
+
+## Acknowledgments
+
+Am aknowledging my tutor Miss Adetutu for dishing out this task to me.
+
+
